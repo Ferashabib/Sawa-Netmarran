@@ -1,1 +1,2 @@
 # Sawa-Netmarran
+Sawa Netmarran proposes a technology-based solution for the third Sustainable Development Goal (SDG 3), which is to ensure healthy lives and promote well-being for all at all ages. Sawa Netmarran is a social platform that encourages young adults to try new sports. It includes many features like booking facilities in local areas, finding nearby Playpals or Coaches, selling and renting gear, and an Explore Page that features Saudi Ambassadors for each sport.
